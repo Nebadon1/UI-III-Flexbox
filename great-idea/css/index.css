@@ -80,7 +80,9 @@ h1, h2, h3, h4, h5 {
 		
 	/*border: 1px solid salmon;*/
   
-  
+  nav{
+		margin-top: 38px;
+	}
   header nav a {
 	margin-right: 65px;
 	font-size: 14px;
@@ -103,6 +105,7 @@ h1, h2, h3, h4, h5 {
   
   header .logo {
 	margin-top: 25px;
+	margin-left: 68px;
 /*	border: 1px solid salmon;*/
   }
   
